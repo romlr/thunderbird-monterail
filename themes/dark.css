@@ -43,7 +43,7 @@
   
   --menu-text-color: var(--dark-text-color);
   /*** These highlight colors are used if more specific ones aren't specified below ***/
-  --highlight-color: #F07746;
+  --highlight-color: #5294E2;
   --highlight-text-color: var(--dark-light-text-color);
   
   /*---- Tree Views (Folder Tree/Message List) General Options ----*/
@@ -99,7 +99,7 @@
 }
 
 .toolbarbutton-1, .toolbarbutton-menubutton-button, #composeToolbar2{
-    color: var(--dark-text-color) !important;
+    color: var(--dark-light-text-color) !important;
 }
 
 menu label, menuitem label, .splitmenu-menuitem label, menucaption label,

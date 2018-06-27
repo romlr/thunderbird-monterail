@@ -22,11 +22,11 @@
 */
 
 /* Uncomment to use square tabs (square tabs are enabled anyway for all except system.css) */
-/* @import "tweaks/square-tabs.css"; */
+@import "tweaks/square-tabs.css";
 
 /******************************************************************/
 /*********************** SELECT THEME HERE ************************/
-@import "themes/system.css";
+@import "themes/dark.css";
 /******************************************************************/
 /******************************************************************/
 
