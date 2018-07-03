@@ -86,10 +86,6 @@
 	}
 }
 
-#composeToolbar2{
-    background: var(--dark-color) !important;
-}
-
 .tabmail-tab[selected="true"] .tab-content {
 	background: var(--dark-light-background) !important;
 }
@@ -98,8 +94,16 @@
 	color: var(--dark-light-text-color) !important;
 }
 
-.toolbarbutton-1, .toolbarbutton-menubutton-button, #composeToolbar2{
+.toolbarbutton-1, .toolbarbutton-menubutton-button{
     color: var(--dark-light-text-color) !important;
+}
+
+#composeToolbar2{
+    background: var(--dark-color)*/ !important;
+}
+
+#composeToolbar2{
+    color: var(--dark-text-color)*/ !important;
 }
 
 menu label, menuitem label, .splitmenu-menuitem label, menucaption label,
