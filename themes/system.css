@@ -33,7 +33,7 @@
 
 :root {
   /*---- General Options ----*/
-  --menu-text-color: MenuText;
+  --menu-text-color: white;
   /*** These highlight colors are used if more specific ones aren't specified below ***/
   --highlight-color: Highlight;
   --highlight-text-color: HighlightText;
@@ -53,7 +53,7 @@
   /*---- Message List ----*/
   --message-list-header-background-color: -moz-dialog;
   --message-list-header-text-color: WindowText;
-  --message-list-background-color: -moz-default-background-color;
+  --message-list-background-color: white;
   --message-list-text-color: WindowText;
   --message-list-row-height: 40px;
   --message-list-highlight-background-color: var(--tree-row-highlight-background-color);
@@ -64,7 +64,7 @@
   --scrollbar-thumb-hover-color: var(--highlight-color);
   
   /*---- Message Headers (To/Subject/From etc) ----*/
-  --subject-line-font-size: 150%;
+  --subject-line-font-size: 125%;
   --headers-background-color: transparent;
   --headers-text-color: WindowText;
   
